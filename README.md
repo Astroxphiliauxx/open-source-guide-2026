@@ -2,7 +2,7 @@
 
 # 🌟 Open Source Programs & Internships
 
-A comprehensive, curated list of open source programs, internships, competitions, and university initiatives with updated timelines for **2025-2026**.
+A comprehensive, curated list of open source programs, internships, competitions, and university initiatives with updated timelines for **2026**.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/)
