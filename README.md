@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🌟 Open Source Programs & Internships
+# 🌟 Open Source Programs & Internships Guide 2026
 
-A comprehensive, curated list of open source programs, internships, competitions, and university initiatives with updated timelines for **2026**.
+A comprehensive, curated list of open source programs, internships, competitions, and university initiatives with verified timelines for **2026**.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-February%202026-blue.svg)]()
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-February%203%2C%202026-blue.svg)]()
 
 </div>
 
@@ -17,7 +17,9 @@ A comprehensive, curated list of open source programs, internships, competitions
 - [🎯 Open Source Programs & Fellowships](#-open-source-programs--fellowships)
 - [🏆 Open Source Competitions](#-open-source-competitions)
 - [🎓 University Open Source Programs](#-university-open-source-programs)
-- [📝 How to Contribute](#-how-to-contribute)
+- [� First-Time Contributors Guide](#-first-time-contributors-guide)
+- [🔗 Useful Resources](#-useful-resources)
+- [�📝 How to Contribute](#-how-to-contribute)
 
 ---
 
@@ -27,14 +29,14 @@ A comprehensive, curated list of open source programs, internships, competitions
 
 | Program | Organization | Timeline | Stipend | Eligibility |
 |---------|-------------|----------|---------|-------------|
-| [**Google Summer of Code (GSoC)**](https://summerofcode.withgoogle.com/) | Google | **2026:** Org Applications: Jan 19 - Feb 3 • Contributor Applications: Mar 16 - Mar 31 • Coding: May 25 - Nov 2 | $1,500 - $6,600 | 18+ years, open to all |
-| [**Outreachy**](https://www.outreachy.org/) | Software Freedom Conservancy | **Summer 2025:** Internship Jun 2 - Aug 29 • **Winter 2025:** Dec 8 - Mar 6, 2026 | $7,000 | Underrepresented groups in tech |
-| [**LFX Mentorship**](https://mentorship.lfx.linuxfoundation.org/) | Linux Foundation | **2026 Spring:** Mar 2 - May 29 • Applications: Jan 26 - Feb 10 | $3,000 - $6,600 | Open to all |
-| [**MLH Fellowship**](https://fellowship.mlh.io/) | Major League Hacking | Multiple cohorts yearly (12 weeks each) | Up to $5,000 | 18+ years, students/recent grads |
+| [**Google Summer of Code (GSoC)**](https://summerofcode.withgoogle.com/) | Google | **2026:** Org Apps: Jan 19 - Feb 3 • Contributors: Mar 16 - Mar 31 • Coding: May 25 - Nov 2 | $1,500 - $6,600 (12-22 week projects) | 18+ years, open to all |
+| [**Outreachy**](https://www.outreachy.org/) | Software Freedom Conservancy | **June 2025:** Applications open Feb 7-15 • Internships Jun 2 - Aug 29 • **Dec 2025:** Applications Aug • Internships Dec 8, 2025 - Mar 6, 2026 | $7,000 | Underrepresented groups in tech |
+| [**LFX Mentorship**](https://mentorship.lfx.linuxfoundation.org/) | Linux Foundation | **2026 Term 1:** March - May • Applications typically open in January-February | $3,000 - $6,600 | Open to all |
+| [**MLH Fellowship**](https://fellowship.mlh.io/) | Major League Hacking | 12-week remote programs • Multiple tracks: Software Engineering, Production Engineering, Web3 | Educational stipend provided | 18+ years, students/recent grads |
 | [**Season of KDE**](https://season.kde.org/) | KDE Community | **2026:** Applications due Jan 14 • Work: Jan 23 - Mar 20 | Non-paid (certificate + swag) | Students |
-| [**Summer of Bitcoin**](https://www.summerofbitcoin.org/) | Summer of Bitcoin | **2025:** Applications by Feb 15 • Program: Mar 15 - Aug 15 | Stipend available | University students |
-| [**Julia Summer of Code**](https://julialang.org/jsoc/) | Julia Language | Aligns with GSoC timeline | Varies | Open to all |
-| [**Open Source Promotion Plan (OSPP)**](https://summer-ospp.ac.cn/) | Chinese Academy of Sciences | Summer months, applications in April-May | Up to ¥12,000 CNY | University students |
+| [**Summer of Bitcoin**](https://www.summerofbitcoin.org/) | Summer of Bitcoin | **2026:** Check official site for application timeline • Program typically runs spring-summer | Stipend available | University students |
+| [**Julia Summer of Code**](https://julialang.org/jsoc/) | Julia Language | Typically aligns with GSoC timeline • Check Julia website for current year | Varies | Open to all |
+| [**Open Source Promotion Plan (OSPP)**](https://summer-ospp.ac.cn/) | Chinese Academy of Sciences | **2026:** Check official site • Summer program typically April-May applications | Up to ¥12,000 CNY | Chinese university students |
 | [**Free Software Foundation Internship**](https://www.fsf.org/volunteer/internships) | FSF | Rolling applications | Unpaid (educational) | Students |
 | [**X.Org Endless Vacation of Code (EVoC)**](https://www.x.org/wiki/XorgEVoC/) | X.Org Foundation | Year-round | Varies | Open to all |
 | [**Hyperledger Mentorship**](https://wiki.hyperledger.org/display/INTERN/) | Linux Foundation | Three terms per year | $3,000 - $6,600 | Open to all |
@@ -55,7 +57,7 @@ A comprehensive, curated list of open source programs, internships, competitions
 
 | Competition | Organization | Timeline | Prizes/Rewards |
 |-------------|-------------|----------|----------------|
-| [**Hacktoberfest**](https://hacktoberfest.com/) | DigitalOcean | **2025:** Registration Sep 15 • Event Oct 1-31 | Digital badges, swag, tree planted |
+| [**Hacktoberfest**](https://hacktoberfest.com/) | DigitalOcean | **Annual:** October 1-31 • Registration typically opens mid-September | Digital badges, swag, community recognition |
 | [**GirlScript Summer of Code (GSSoC)**](https://gssoc.girlscript.tech/) | GirlScript Foundation | **2025:** Coding Oct 1-30 • Results Nov 10 | Certificates, swag, recognition |
 | [**24 Pull Requests**](https://24pullrequests.com/) | Community | December 1-24 annually | Recognition, badges |
 | [**BOSS (Bountiful Open Source Summer)**](https://lab.codingblocks.com/boss) | Coding Blocks | Summer months | Cash prizes, swag |
@@ -98,50 +100,51 @@ A comprehensive, curated list of open source programs, internships, competitions
 | Date | Event |
 |------|-------|
 | Jan 7-20 | LFX Spring 2026 Project Proposals |
+| Jan 19 | GSoC 2026 Org Applications Open (18:00 UTC) |
 | Jan 14 | Season of KDE 2026 Application Deadline |
-| Jan 19 | GSoC 2026 Org Applications Open |
 | Jan 23 | Season of KDE 2026 Work Begins |
-| Jan 26 - Feb 10 | LFX Spring 2026 Applications |
 
 ### February 2026
 | Date | Event |
 |------|-------|
-| Feb 3 | GSoC 2026 Org Applications Close |
-| Feb 19 | GSoC 2026 Accepted Orgs Published |
-| Feb 26 | LFX Spring 2026 Selection Notifications |
+| Feb 3 | GSoC 2026 Org Applications Deadline (18:00 UTC) |
+| Feb 19 | GSoC 2026 Accepted Organizations Published (18:00 UTC) |
 
 ### March 2026
 | Date | Event |
 |------|-------|
-| Mar 2 | LFX Spring 2026 Begins |
-| Mar 16-31 | GSoC 2026 Contributor Applications |
+| Mar 16 | GSoC 2026 Contributor Applications Open (18:00 UTC) |
 | Mar 20 | Season of KDE 2026 Work Ends |
+| Mar 31 | GSoC 2026 Contributor Applications Deadline (18:00 UTC) |
 
 ### April-May 2026
 | Date | Event |
 |------|-------|
 | Apr 1 | SSoC 2026 Registration Opens |
-| Apr 5 | Season of KDE 2026 Results |
-| Apr 30 | GSoC 2026 Accepted Projects Announced |
-| May 25 | GSoC 2026 Coding Begins |
-| May 29 | LFX Spring 2026 Ends |
+| Apr 21 | GSoC 2026 Contributor Proposal Rankings Due (18:00 UTC) |
+| Apr 30 | GSoC 2026 Accepted Projects Announced (18:00 UTC) |
+| May 1-24 | GSoC 2026 Community Bonding Period |
+| May 25 | GSoC 2026 Coding Officially Begins |
 
 ### June-August 2026
 | Date | Event |
 |------|-------|
 | Jun 1 | SSoC 2026 Coding Begins |
+| Jul 6 | GSoC 2026 Midterm Evaluations Open (18:00 UTC) |
+| Jul 10 | GSoC 2026 Midterm Evaluation Deadline (18:00 UTC) |
 | Aug 1 | SSoC 2026 Coding Ends |
-| Aug 15 | SSoC 2026 Results |
-| Aug 17-31 | GSoC 2026 Standard Track Final Evaluations |
+| Aug 17-24 | GSoC 2026 Final Work Product Submission |
+| Aug 24-31 | GSoC 2026 Final Mentor Evaluations |
 
 ### October-December 2026
 | Date | Event |
 |------|-------|
-| Oct 1-31 | Hacktoberfest 2026 (estimated) |
+| Oct 1-31 | Hacktoberfest 2026 (annual October event) |
 | Oct 18 | SWOC 2026 Registration Opens |
-| Nov 2 | GSoC 2026 Extended Deadline Final Submission |
+| Nov 2 | GSoC 2026 Extended Timeline Final Deadline (18:00 UTC) |
+| Nov 9 | GSoC 2026 Extended Timeline Mentor Evaluations Deadline |
 | Dec 1-24 | 24 Pull Requests |
-| Dec | KWOC, DWoC, and other Winter of Codes begin |
+| Dec | Winter of Code programs begin (KWOC, DWoC, etc.) |
 
 ---
 
@@ -173,11 +176,85 @@ A comprehensive, curated list of open source programs, internships, competitions
 
 ---
 
+## 🚀 First-Time Contributors Guide
+
+> New to open source? Start here! This section helps you find beginner-friendly opportunities and learn the ropes.
+
+### 🎯 Best Programs for Beginners
+
+| Program | Why It's Great for Beginners | Getting Started |
+|---------|-----------------------------|------------------|
+| **Hacktoberfest** | No application process • Wide variety of projects • Beginner-friendly labels | Look for `hacktoberfest`, `good-first-issue`, `beginner-friendly` tags |
+| **Season of KDE** | Strong community support • Detailed documentation • Multiple skill levels | Join KDE community channels early • Read contributor guides |
+| **University Winter of Codes** | Peer mentoring • Local community • Less competitive | Start with your local university programs first |
+| **24 Pull Requests** | Encourages small contributions • December timeline • Very beginner-friendly | Perfect for making your first PR during holidays |
+| **LFX Mentorship** | Structured mentoring • Clear project scope • Professional guidance | Choose projects marked as "beginner-friendly" |
+
+### 🔍 Finding Beginner-Friendly Issues
+
+#### By Programming Language
+| Language | Beginner-Friendly Repositories | Issue Labels to Look For |
+|----------|-------------------------------|-------------------------|
+| **Python** | [Django](https://github.com/django/django), [Pandas](https://github.com/pandas-dev/pandas), [Matplotlib](https://github.com/matplotlib/matplotlib) | `easy`, `newcomer-friendly`, `good first issue` |
+| **JavaScript** | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp), [React](https://github.com/facebook/react), [Node.js](https://github.com/nodejs/node) | `good first issue`, `beginner`, `help wanted` |
+| **Java** | [Spring Framework](https://github.com/spring-projects/spring-framework), [Apache Projects](https://github.com/apache) | `newbie`, `starter`, `good first issue` |
+| **C++** | [OpenCV](https://github.com/opencv/opencv), [Godot](https://github.com/godotengine/godot) | `junior job`, `easy`, `good first issue` |
+| **Documentation** | Most projects need docs! | `documentation`, `good first issue`, `help wanted` |
+
+### 🛠️ Non-Code Contributions for Beginners
+
+- **Documentation:** Fix typos, improve README files, write tutorials
+- **Translation:** Help translate software to different languages
+- **Design:** Create logos, UI mockups, graphics
+- **Testing:** Report bugs, test new features
+- **Community:** Help answer questions, organize events
+
+### 📚 Learning Path for Open Source
+
+1. **Week 1-2:** Learn Git & GitHub basics
+2. **Week 3-4:** Make your first documentation PR
+3. **Week 5-6:** Fix your first small bug
+4. **Week 7-8:** Apply to beginner-friendly programs
+
+---
+
 ## 🔗 Useful Resources
 
-- **Finding Projects:** [Good First Issues](https://goodfirstissues.com/) | [Up For Grabs](https://up-for-grabs.net/) | [First Timers Only](https://www.firsttimersonly.com/)
-- **Learning Git:** [Git Documentation](https://git-scm.com/doc) | [GitHub Skills](https://skills.github.com/)
-- **Open Source Guides:** [opensource.guide](https://opensource.guide/)
+### 🔍 Finding Beginner-Friendly Issues
+- **[Good First Issues](https://goodfirstissues.com/)** - Curated list of beginner-friendly issues
+- **[Up For Grabs](https://up-for-grabs.net/)** - Projects looking for contributors
+- **[First Timers Only](https://www.firsttimersonly.com/)** - Issues specifically for first-time contributors
+- **[CodeTriage](https://www.codetriage.com/)** - Get daily issues delivered to your inbox
+- **[Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)** - List of beginner-friendly projects
+- **[contrib.rocks](https://contrib.rocks/)** - Find issues by tech stack and difficulty
+
+### 📖 Learning Git & Open Source
+- **[Git Documentation](https://git-scm.com/doc)** - Official Git documentation
+- **[GitHub Skills](https://skills.github.com/)** - Interactive Git and GitHub tutorials
+- **[Pro Git Book](https://git-scm.com/book)** - Free comprehensive Git guide
+- **[GitHub's Git Handbook](https://guides.github.com/introduction/git-handbook/)** - Git basics
+- **[Learn Git Branching](https://learngitbranching.js.org/)** - Interactive Git visualization
+
+### 🎓 Open Source Education
+- **[opensource.guide](https://opensource.guide/)** - Complete guide to open source
+- **[How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)** - Step-by-step guide
+- **[The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/)** - freeCodeCamp guide
+- **[Egghead.io Open Source Course](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)** - Video tutorials
+
+### 🏷️ GitHub Issue Labels to Look For
+- `good first issue` - GitHub's standard beginner label
+- `help wanted` - Projects actively seeking contributors
+- `beginner` / `easy` / `newbie` - Difficulty indicators
+- `documentation` - Usually beginner-friendly
+- `hacktoberfest` - Participating in Hacktoberfest
+- `first-timers-only` - Exclusively for new contributors
+
+### 🌐 Communities for Support
+- **[Dev.to](https://dev.to/)** - Developer community with open source discussions
+- **[Reddit r/opensource](https://www.reddit.com/r/opensource/)** - Open source community
+- **[Discord/Slack channels](https://github.com/topics/discord)** - Many projects have community channels
+- **[Stack Overflow](https://stackoverflow.com/questions/tagged/open-source)** - Technical questions
+- **[Hashnode](https://hashnode.com/n/opensource)** - Open source articles and discussions
 
 ---
 
@@ -200,7 +277,19 @@ We welcome contributions to keep this list updated! Here's how you can help:
 
 ## ⚠️ Disclaimer
 
-> Program dates and details are subject to change. Always verify information on official program websites before applying.
+> **Important:** Program dates and details are subject to change. Always verify information on official program websites before applying. This guide was last updated on February 3, 2026, based on official sources.
+
+### Verified Sources (Last Checked: Feb 3, 2026)
+- **GSoC 2026:** [Official Timeline](https://developers.google.com/open-source/gsoc/timeline) 
+- **Outreachy:** [Official Site](https://www.outreachy.org/)
+- **LFX Mentorship:** [Platform](https://mentorship.lfx.linuxfoundation.org/)
+- **MLH Fellowship:** [Official Site](https://fellowship.mlh.io/)
+- **Hacktoberfest:** [Official Site](https://hacktoberfest.com/)
+
+### Getting Updates
+- Follow official program social media accounts
+- Join program mailing lists where available
+- Star this repository for updates to the guide
 
 ---
 
@@ -208,7 +297,11 @@ We welcome contributions to keep this list updated! Here's how you can help:
 
 ### ⭐ Star this repository if you found it helpful!
 
-**Last Updated:** February 2026
+**Last Updated:** February 3, 2026
+
+✅ **Verified Information Sources:** Google Developers, Outreachy.org, LFX Platform, MLH Fellowship  
+📅 **Next Update:** Monthly verification of program timelines  
+🔗 **Contribute:** Found outdated info? Submit a PR with verified sources!
 
 Made with ❤️ for the Open Source Community
 
