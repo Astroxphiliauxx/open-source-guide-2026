@@ -37,7 +37,7 @@ A comprehensive, curated list of open source programs, internships, competitions
 | [**Summer of Bitcoin**](https://www.summerofbitcoin.org/) | Summer of Bitcoin | **2026:** Check official site for application timeline • Program typically runs spring-summer | Stipend available | University students |
 | [**Julia Summer of Code**](https://julialang.org/jsoc/) | Julia Language | Typically aligns with GSoC timeline • Check Julia website for current year | Varies | Open to all |
 | [**Open Source Promotion Plan (OSPP)**](https://summer-ospp.ac.cn/) | Chinese Academy of Sciences | **2026:** Check official site • Summer program typically April-May applications | Up to ¥12,000 CNY | Chinese university students |
-| [**Free Software Foundation Internship**](https://www.fsf.org/volunteer/internships) | FSF | Rolling applications | Unpaid (educational) | Students |
+| [**Free Software Foundation Internship**](https://www.fsf.org/volunteer/internships) | FSF | Applications Ended | Unpaid (educational) | Students |
 | [**X.Org Endless Vacation of Code (EVoC)**](https://www.x.org/wiki/XorgEVoC/) | X.Org Foundation | Year-round | Varies | Open to all |
 | [**Hyperledger Mentorship**](https://wiki.hyperledger.org/display/INTERN/) | Linux Foundation | Three terms per year | $3,000 - $6,600 | Open to all |
 | [**Open Mainframe Project Mentorship**](https://www.openmainframeproject.org/projects/mentorship-program) | Linux Foundation | Aligns with LFX terms | Stipend available | Open to all |
