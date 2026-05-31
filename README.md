@@ -75,7 +75,7 @@ A comprehensive, curated list of open source programs, internships, competitions
 
 | Program | University/Organization | Timeline | Location |
 |---------|------------------------|----------|----------|
-| [**Social Summer of Code (SSoC)**](https://ssoc.devfolio.co/) | Social & Reskilll | **2026:** Registration Apr 1 - May 30 • Coding: Jun 1 - Aug 1 | India (Online) |
+| [**Social Summer of Code (SSoC)**](https://socialsummerofcode.com/) | Social & Reskilll | **2026:** Registration Apr 1 - May 30 • Coding: Jun 1 - Aug 1 | India (Online) |
 | [**Social Winter of Code (SWOC)**](https://swoc.in/) | Social | **2026:** Registration Oct 18, 2025 • Contributions: Jan 1 - Mar 1 | India (Online) |
 | [**Kharagpur Winter of Code (KWOC)**](https://kwoc.kossiitkgp.org/) | IIT Kharagpur (KOSS) | December (5 weeks) | India (Online) |
 | [**FOSS Overflow**](https://fossoverflow.dev/) | OpenLake, IIT Bhilai | Winter months | India (Online) |
