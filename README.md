@@ -297,6 +297,14 @@ We welcome contributions to keep this list updated! Here's how you can help:
 
 ### ⭐ Star this repository if you found it helpful!
 
+<a href="https://www.star-history.com/?repos=Astroxphiliauxx%2Fopen-source-guide-2026&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Astroxphiliauxx/open-source-guide-2026&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Astroxphiliauxx/open-source-guide-2026&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Astroxphiliauxx/open-source-guide-2026&type=date&legend=top-left" />
+ </picture>
+</a>
+
 **Last Updated:** February 3, 2026
 
 ✅ **Verified Information Sources:** Google Developers, Outreachy.org, LFX Platform, MLH Fellowship  
