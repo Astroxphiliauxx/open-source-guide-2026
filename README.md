@@ -2,6 +2,14 @@
 
 # 🌟 Open Source Programs & Internships Guide 2026
 
+<a href="https://www.star-history.com/?repos=Astroxphiliauxx%2Fopen-source-guide-2026&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Astroxphiliauxx/open-source-guide-2026&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Astroxphiliauxx/open-source-guide-2026&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Astroxphiliauxx/open-source-guide-2026&type=date&legend=top-left" />
+ </picture>
+</a>
+
 A comprehensive, curated list of open source programs, internships, competitions, and university initiatives with verified timelines for **2026**.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -297,15 +305,9 @@ We welcome contributions to keep this list updated! Here's how you can help:
 
 ### ⭐ Star this repository if you found it helpful!
 
-<a href="https://www.star-history.com/?repos=Astroxphiliauxx%2Fopen-source-guide-2026&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Astroxphiliauxx/open-source-guide-2026&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Astroxphiliauxx/open-source-guide-2026&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Astroxphiliauxx/open-source-guide-2026&type=date&legend=top-left" />
- </picture>
-</a>
 
-**Last Updated:** February 3, 2026
+
+**Last Updated:** June 1st, 2026
 
 ✅ **Verified Information Sources:** Google Developers, Outreachy.org, LFX Platform, MLH Fellowship  
 📅 **Next Update:** Monthly verification of program timelines  
