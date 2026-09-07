@@ -2,7 +2,7 @@
 
 # 🌟 Open Source Programs & Internships Guide 2026
 
-<a href="https://www.star-history.com/?repos=Astroxphiliauxx%2Fopen-source-guide-2026&type=date&legend=top-left">
+
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Astroxphiliauxx/open-source-guide-2026&type=date&theme=dark&legend=top-left" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Astroxphiliauxx/open-source-guide-2026&type=date&legend=top-left" />
